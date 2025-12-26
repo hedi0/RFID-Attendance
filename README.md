@@ -48,7 +48,7 @@ A robust and secure attendance management solution combining **RFID technology**
 
 3. **Activate the Virtual Environment:**
 
-   * **Windows:** `.env\Scripts\activate`
+   * **Windows:** `.env\Scripts\activate`
    * **macOS/Linux:** `source venv/bin/activate`
 
 4. **Install Dependencies:**
