@@ -142,4 +142,4 @@ User **John Doe** has RFID tag `12345678`:
 ## 📄 License
 
 **Apache License 2.0** – see [LICENSE](LICENSE) for details.
-Copyright (c) 2023 hed
+Copyright (c) 2...
