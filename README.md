@@ -135,4 +135,4 @@ User **John Doe** has RFID tag `12345678`:
 ### Testing
 
 * Ensure no new bugs.
-* Add basic functional te
+* Add basic function
