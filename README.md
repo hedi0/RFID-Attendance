@@ -141,4 +141,4 @@ User **John Doe** has RFID tag `12345678`:
 
 ## 📄 License
 
-**Apache License 2.0** – see [LICENSE](LICEN
+**Apache License 2.0** – see [LICENSE](
