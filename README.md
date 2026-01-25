@@ -137,6 +137,3 @@ User **John Doe** has RFID tag `12345678`:
 * Ensure no new bugs.
 * Add basic functional tests for new features.
 
----
-
-
