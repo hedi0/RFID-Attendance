@@ -130,4 +130,4 @@ User **John Doe** has RFID tag `12345678`:
 ### Pull Requests
 
 1. Fork → create a branch → make changes → commit → push → open PR
-2. Provide clear description and rea
+2. Provide clear description a
