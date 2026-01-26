@@ -129,4 +129,4 @@ User **John Doe** has RFID tag `12345678`:
 
 ### Pull Requests
 
-1. Fork → create a branch → make changes → comm
+1. Fork → create a branch → make changes → c
