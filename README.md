@@ -127,4 +127,4 @@ User **John Doe** has RFID tag `12345678`:
 * Bugfixes: `bugfix/issue-description`
 * Hotfixes: `hotfix/critical-bug-fix`
 
-### Pul
+##
