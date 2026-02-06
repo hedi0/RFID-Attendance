@@ -125,4 +125,4 @@ User **John Doe** has RFID tag `12345678`:
 
 * Features: `feature/your-feature-name`
 * Bugfixes: `bugfix/issue-description`
-* Hugugb tsy r-t -r(e fc kgt
+gyguyg fyd-è(((d fseè e  ç e-b t!ldkd 
