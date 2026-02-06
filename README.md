@@ -123,5 +123,4 @@ User **John Doe** has RFID tag `12345678`:
 
 ### Branch Naming
 
-* eurs `ftreourure-name`
- leester eder  k
+* eurs `ftreour tere (et ru rlty f
