@@ -125,4 +125,4 @@ User **John Doe** has RFID tag `12345678`:
 
 * Features: `feature/your-feature-name`
 * Bugfixes: `bugfix/issue-description`
-* ers and adapts to different environments. gbrezf
+* tiple RFID readers, API integration, Docked rg erg   eg
