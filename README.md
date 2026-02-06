@@ -124,6 +124,6 @@ User **John Doe** has RFID tag `12345678`:
 ### Branch Naming
 
 * Features: `feature/your-feature-name`
-* Bugfixes: `bugfix/issue-description`
-* gerregg grgrggeergre
-* yes do we have
+* Bugfixes: ugfix/issue-description`
+* gjftftf -fu fu ffff ggrggeergre
+* yes do we ha
