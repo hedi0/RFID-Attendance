@@ -119,7 +119,6 @@ User **John Doe** has RFID tag `12345678`:
 ### Guidelines
 
 * Follo
-* Use de
 
 
 
