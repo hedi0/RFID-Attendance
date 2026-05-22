@@ -111,7 +111,3 @@ User **John Doe** has RFID tag `12345678`:
 * **v1.2 – Web Interface:** Real-time monitoring, reporting via Flask/Django.
 * **v1.3 – Enhanced Face Recognition:** Faster models, liveness detection.
 * **Future Enhancements:** Multiple RFID readers, API integration, Docker containerization.
-
----
-
-## 🤝 Co
