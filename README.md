@@ -119,7 +119,7 @@ User **John Doe** has RFID tag `12345678`:
 ### Guidelines
 
 * Follow **PEP 8** for
-* Use descriptive names and commen gzr
+* Use descriptive nam
 
 
 
