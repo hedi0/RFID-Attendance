@@ -119,7 +119,7 @@ User **John Doe** has RFID tag `12345678`:
 ### Guidelines
 
 * Follo
-* Use descriptive nam
+* Use de
 
 
 
