@@ -8,7 +8,6 @@ A robust and secure attendance management solution combining **RFID technology**
 ![Forks](https://img.shields.io/github/forks/hedi0/RFID-Attendance?style=social)
 
 ![Project Cover](/images/rfid_att_cover.png)
-this is
 
 ---
 
