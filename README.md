@@ -101,7 +101,7 @@ User **John Doe** has RFID tag `12345678`:
 * Timestamped image saved for audit.
 
 ![Usage Screenshot](/images/usage_screenshot.png)
-*Placeholder: System output during an attendance event.*
+*Placeholder: System output during an attendanc
 
 ---
 
