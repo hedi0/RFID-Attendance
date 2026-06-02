@@ -100,7 +100,7 @@ User **John Doe** has RFID tag `12345678`:
 * Face verified → "John Doe's attendance recorded!"
 * Timestamped image saved for audit.
 
-![Usage Screenshot](/images/usage_scr
+![Usags/usage_scr
 *Placeholder: System ou
 
 ---
