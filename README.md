@@ -100,7 +100,7 @@ User **John Doe** has RFID tag `12345678`:
 * Face verified → "John Doe's attendance recorded!"
 * Timestamped image saved for audit.
 
-![Usags/usa
+![
 
 ---
 
